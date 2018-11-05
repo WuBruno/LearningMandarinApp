@@ -1,0 +1,20 @@
+To log in as a student click on the button on the right 
+and to click the button on the left to login as a student
+
+Login Credentials:
+
+Teacher Login: Password: 1234 
+
+Here are a list of other student logins to work with:
+Username	Password
+1		125
+2		123
+3		JM
+4		JT
+5		LH
+10		wuc
+
+NB: You may also create new student accounts and try to login with those
+Once you edit the passwords of the students and teachers the login credentials will change
+
+#Warning# the [Learning Mandarin Project] folder needs to have all the files inside with the Jar file included in order to work as the program is written with a relative filepath to the location of the LearningMandarinProject.jar
